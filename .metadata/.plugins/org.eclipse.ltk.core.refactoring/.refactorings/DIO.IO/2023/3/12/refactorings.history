@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename field &apos;noAnterior&apos; in &apos;implementacao.pilha.No&apos; to &apos;noProximo&apos;&#x0D;&#x0A;- Original project: &apos;DIO.IO&apos;&#x0D;&#x0A;- Original element: &apos;implementacao.pilha.No.noAnterior&apos;&#x0D;&#x0A;- Renamed element: &apos;implementacao.pilha.No.noProximo&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" delegate="false" deprecate="false" description="Rename field &apos;noAnterior&apos;" flags="589826" getter="false" id="org.eclipse.jdt.ui.rename.field" input="/src&lt;implementacao.pilha{No.java[No^noAnterior" name="noProximo" references="true" setter="false" stamp="1679513528526" textual="false" version="1.0"/>
+</session>

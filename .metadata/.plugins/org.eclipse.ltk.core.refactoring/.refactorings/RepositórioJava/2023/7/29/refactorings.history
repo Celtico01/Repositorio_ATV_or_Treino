@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;Collections Java and Data Structures&apos; to &apos;Repositório Java/src&apos;&#x0D;&#x0A;- Original project: &apos;RepositórioJava&apos;&#x0D;&#x0A;- Destination element: &apos;Repositório Java/src&apos;&#x0D;&#x0A;- Original element: &apos;Collections Java and Data Structures&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move folder" destination="=Repositório Java/src" element1="Collections Java and Data Structures" files="0" flags="589830" folders="1" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1689706002433" units="0" version="1.0"/>
+</session>
